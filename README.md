@@ -1,4 +1,4 @@
-<img src="https://thumbs.gfycat.com/OccasionalDamagedIggypops-max-1mb.gif" width="100%">
+<img src="https://thumbs.gfycat.com/OccasionalDamagedIggypops-max-1mb.gif" width="100%" height="60%">
 <h1 align="center">Hi 👋, I'm Pradip More</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
