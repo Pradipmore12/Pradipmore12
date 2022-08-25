@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pradipmore12&label=Profile%20views&color=0e75b6&style=flat" alt="pradipmore12" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pradipmore12&label=Profile%20views&color=0e75b6&style=flat" alt="pradipmore12" />1000 </p>
 
 - 🌱 I’m currently learning **everything I need to filling my gaps to become a better programmer.**
 
