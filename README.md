@@ -3,24 +3,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
-<p align="left"> <svg xmlns="http://www.w3.org/2000/svg" width="113" height="20">
-    <linearGradient id="b" x2="0" y2="100%">
-        <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
-        <stop offset="1" stop-opacity=".1"/>
-    </linearGradient>
-    <mask id="a">
-        <rect width="113" height="20" rx="3" fill="#fff"/>
-    </mask>
-    <g mask="url(#a)">
-        <rect width="81" height="20" fill="#555"/>
-        <rect x="81" width="32" height="20" fill="#0e75b6"/>
-        <rect width="113" height="20" fill="url(#b)"/>
-    </g>
-    <g fill="#fff" text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="11">
-        <text x="41.5" y="14">Profile views</text>
-        <text x="96" y="14">1000</text>
-    </g>
-</svg>
+<p align="left">
 <img src="https://visitor-badge.deta.dev/badge?page_id=page.id" alt="visitor badge"/></p>
 
 - 🌱 I’m currently learning **everything I need to filling my gaps to become a better programmer.**
