@@ -20,7 +20,8 @@
         <text x="41.5" y="14">Profile views</text>
         <text x="96" y="14">1000</text>
     </g>
-</svg></p>
+</svg>
+<img src="https://visitor-badge.deta.dev/badge?page_id=page.id" alt="visitor badge"/></p>
 
 - 🌱 I’m currently learning **everything I need to filling my gaps to become a better programmer.**
 
