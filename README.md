@@ -17,9 +17,7 @@
         <rect width="113" height="20" fill="url(#b)"/>
     </g>
     <g fill="#fff" text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="11">
-        <text x="41.5" y="15" fill="#010101" fill-opacity=".3">Profile views</text>
         <text x="41.5" y="14">Profile views</text>
-        <text x="96" y="15" fill="#010101" fill-opacity=".3">232</text>
         <text x="96" y="14">1000</text>
     </g>
 </svg></p>
